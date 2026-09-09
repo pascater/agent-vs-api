@@ -1,9 +1,9 @@
-repo,listed_stars,agent_reading,api_stars,checked_on,divergence,note
-leonar15/startup-checklist,2586,2600,2588,2026-09-09,12,"Agent read the rounded 2.6k label rather than the count"
-questflowai/investorskills,1843,1000,1847,2026-09-09,847,"Agent returned a round number that appears nowhere on the page"
-swyxio/devtools-angels,646,648,647,2026-09-09,1,"Agent correct. Repo is archived: true, last push 2026-08-03"
-joelparkerhenderson/pitch-deck,438,416,439,2026-09-09,23,"Agent low by 23"
-ferdousbhai/investor-agent,346,338,347,2026-09-09,9,"Agent low by 9. Repo is a stock analysis MCP server"
-lalalune/outreachr,256,6,258,2026-09-09,252,"Agent low by a factor of 43. Repo has 40 forks, created 2026-08-01"
-emotixco/claude-skills-founder,66,66,66,2026-09-09,0,"Agent correct"
-midovislam/awesome-pitch-decks,64,65,65,2026-09-09,0,"Agent correct"
+repo,agent_reading,api_stars,checked_on,divergence,note
+leonar15/startup-checklist,2600,2588,2026-09-09,12,"Agent returned the rounded 2.6k label, not the count"
+questflowai/investorskills,1000,1847,2026-09-09,847,"Agent returned a round number that appears nowhere on the page"
+swyxio/devtools-angels,648,647,2026-09-09,1,"Agent within 1"
+joelparkerhenderson/pitch-deck,416,439,2026-09-09,23,"Agent low by 23"
+ferdousbhai/investor-agent,338,347,2026-09-09,9,"Agent low by 9"
+lalalune/outreachr,6,258,2026-09-09,252,"Agent low by a factor of 43"
+emotixco/claude-skills-founder,66,66,2026-09-09,0,"Agent exact"
+midovislam/awesome-pitch-decks,65,65,2026-09-09,0,"Agent exact"
