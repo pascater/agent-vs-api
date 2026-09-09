@@ -1,9 +1,9 @@
-repo,listed_stars,verified_stars,verified_on,status,category,note
-leonar15/startup-checklist,2586,2600,2026-09-09,active,incorporation,"Rounded as GitHub displays (2.6k). Delaware C-corp and California payroll only"
-questflowai/investorskills,1843,1000,2026-09-09,active,public-markets,"50+ investing philosophies packaged as agent skills. Not a fundraising tool"
-swyxio/devtools-angels,646,648,2026-09-09,archived,investor-list,"Archived 2026-08-03. Successor: conorbronsdon/ai-angels"
-joelparkerhenderson/pitch-deck,438,416,2026-09-09,active,pitch-advice,"Link collection, first published 2016"
-ferdousbhai/investor-agent,346,338,2026-09-09,active,public-markets,"MCP server for stock fundamentals, RSI, MACD. Miscategorised in the original list"
-lalalune/outreachr,256,6,2026-09-09,active,crm,"1 fork, 10 commits. Local-first investor CRM, Electron and SQLite"
-emotixco/claude-skills-founder,66,66,2026-09-09,active,agent-skills,"4 commits. Generic founder prompts"
-midovislam/awesome-pitch-decks,64,65,2026-09-09,active,deck-archive,"754 decks indexed via CSV, PDFs hosted on Google Drive"
+repo,listed_stars,agent_reading,api_stars,checked_on,divergence,note
+leonar15/startup-checklist,2586,2600,2588,2026-09-09,12,"Agent read the rounded 2.6k label rather than the count"
+questflowai/investorskills,1843,1000,1847,2026-09-09,847,"Agent returned a round number that appears nowhere on the page"
+swyxio/devtools-angels,646,648,647,2026-09-09,1,"Agent correct. Repo is archived: true, last push 2026-08-03"
+joelparkerhenderson/pitch-deck,438,416,439,2026-09-09,23,"Agent low by 23"
+ferdousbhai/investor-agent,346,338,347,2026-09-09,9,"Agent low by 9. Repo is a stock analysis MCP server"
+lalalune/outreachr,256,6,258,2026-09-09,252,"Agent low by a factor of 43. Repo has 40 forks, created 2026-08-01"
+emotixco/claude-skills-founder,66,66,66,2026-09-09,0,"Agent correct"
+midovislam/awesome-pitch-decks,64,65,65,2026-09-09,0,"Agent correct"
